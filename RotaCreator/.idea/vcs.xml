@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Rota" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitRota/rota-creator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitRota/rotacreatorapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rota-creator" vcs="Git" />
+  </component>
+</project>
